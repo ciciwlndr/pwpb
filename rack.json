@@ -1,0 +1,759 @@
+{
+    "objectDatas": [
+        {
+            "position": {
+                "x": -3.550936698913574,
+                "y": 0.0,
+                "z": 15.520280838012696
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.707124650478363,
+                "z": 0.0,
+                "w": -0.7070889472961426
+            },
+            "rackType": 0,
+            "variationType": 0,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 35,
+                    "quantity": 9,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 36,
+                    "quantity": 4,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 36,
+                    "quantity": 8,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 36,
+                    "quantity": 6,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -8.529047966003418,
+                "y": 0.0,
+                "z": 8.761375427246094
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071067690849304,
+                "z": 0.0,
+                "w": -0.7071067690849304
+            },
+            "rackType": 1,
+            "variationType": 0,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 42,
+                    "quantity": 4,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 41,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 41,
+                    "quantity": 6,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 22,
+                    "quantity": 2,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": 9.25,
+                "y": 0.0,
+                "z": 16.75
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "rackType": 4,
+            "variationType": 1,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 0,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 0,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 0,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 0,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": 3.3127174377441408,
+                "y": 0.0,
+                "z": 17.21991729736328
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071067690849304
+            },
+            "rackType": 1,
+            "variationType": 1,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 17,
+                    "quantity": 1,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 43,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 26,
+                    "quantity": 11,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 26,
+                    "quantity": 10,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [
+                {
+                    "itemType": 45,
+                    "quantity": 4,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 23,
+                    "quantity": 11,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 42,
+                    "quantity": 6,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 45,
+                    "quantity": 2,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -6.434756278991699,
+                "y": 0.0,
+                "z": 14.647163391113282
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "rackType": 2,
+            "variationType": 1,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 40,
+                    "quantity": 6,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 40,
+                    "quantity": 5,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 38,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 40,
+                    "quantity": 2,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [
+                {
+                    "itemType": 37,
+                    "quantity": 8,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 37,
+                    "quantity": 9,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 37,
+                    "quantity": 7,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 29,
+                    "quantity": 8,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -8.64715576171875,
+                "y": 0.0,
+                "z": 13.002707481384278
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071067690849304,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "rackType": 2,
+            "variationType": 0,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 27,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 37,
+                    "quantity": 6,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 16,
+                    "quantity": 6,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 38,
+                    "quantity": 8,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -3.492258071899414,
+                "y": 0.0,
+                "z": 16.551790237426759
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.7070889472961426,
+                "z": 0.0,
+                "w": 0.707124650478363
+            },
+            "rackType": 0,
+            "variationType": 0,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 36,
+                    "quantity": 8,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 36,
+                    "quantity": 10,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 35,
+                    "quantity": 3,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 47,
+                    "quantity": 9,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -5.459885120391846,
+                "y": 0.0,
+                "z": 11.704322814941407
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "rackType": 3,
+            "variationType": 0,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 33,
+                    "quantity": 22,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 33,
+                    "quantity": 23,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -3.615283489227295,
+                "y": 0.0,
+                "z": 8.722940444946289
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.9999845623970032,
+                "z": 0.0,
+                "w": -0.005551578477025032
+            },
+            "rackType": 3,
+            "variationType": 0,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 32,
+                    "quantity": 21,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 32,
+                    "quantity": 10,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -4.780116558074951,
+                "y": 0.0,
+                "z": 14.652592658996582
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "rackType": 2,
+            "variationType": 1,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 29,
+                    "quantity": 5,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 29,
+                    "quantity": 5,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 29,
+                    "quantity": 6,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 29,
+                    "quantity": 9,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [
+                {
+                    "itemType": 40,
+                    "quantity": 2,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 29,
+                    "quantity": 8,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 40,
+                    "quantity": 1,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 30,
+                    "quantity": 4,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -5.754918098449707,
+                "y": 0.0,
+                "z": 8.48356819152832
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0,
+                "w": -0.0000014174729585647584
+            },
+            "rackType": 1,
+            "variationType": 1,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 11,
+                    "quantity": 6,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 23,
+                    "quantity": 10,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 45,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 23,
+                    "quantity": 12,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [
+                {
+                    "itemType": 26,
+                    "quantity": 10,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 22,
+                    "quantity": 3,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 3,
+                    "quantity": 3,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 22,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -8.56202220916748,
+                "y": 0.0,
+                "z": 10.611675262451172
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071073055267334,
+                "z": 0.0,
+                "w": -0.7071062922477722
+            },
+            "rackType": 1,
+            "variationType": 1,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 42,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 41,
+                    "quantity": 8,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 41,
+                    "quantity": 7,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 22,
+                    "quantity": 2,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [
+                {
+                    "itemType": 41,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 25,
+                    "quantity": 8,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 22,
+                    "quantity": 0,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 22,
+                    "quantity": 2,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "frontShelves": [],
+            "backShelves": []
+        },
+        {
+            "position": {
+                "x": -4.588237285614014,
+                "y": 0.0,
+                "z": 11.707695007324219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "rackType": 3,
+            "variationType": 0,
+            "storageVariationType": 0,
+            "designType": 0,
+            "leftShelves": [
+                {
+                    "itemType": 34,
+                    "quantity": 18,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                },
+                {
+                    "itemType": 34,
+                    "quantity": 16,
+                    "boxesQuantities": [],
+                    "boxType": 0,
+                    "subCategoryIndex": 0
+                }
+            ],
+            "rightShelves": [],
+            "frontShelves": [],
+            "backShelves": []
+        }
+    ],
+    "specialFurnitureDatas": [],
+    "cashCounterObjectDatas": []
+}

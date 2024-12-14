@@ -1,0 +1,418 @@
+{
+    "customerStateDatas": [
+        {
+            "position": {
+                "x": 0.75,
+                "y": 0.05000000074505806,
+                "z": 12.725000381469727
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 155.0,
+                "z": 0.0
+            },
+            "genderType": 0,
+            "customerState": 7,
+            "aiPathState": 2,
+            "purchasedItems": [
+                {
+                    "itemType": 40,
+                    "price": 3.0,
+                    "tempTransform": {
+                        "instanceID": -25008
+                    }
+                },
+                {
+                    "itemType": 40,
+                    "price": 3.0,
+                    "tempTransform": {
+                        "instanceID": -24978
+                    }
+                },
+                {
+                    "itemType": 30,
+                    "price": 5.519999980926514,
+                    "tempTransform": {
+                        "instanceID": -55156
+                    }
+                },
+                {
+                    "itemType": 30,
+                    "price": 5.519999980926514,
+                    "tempTransform": {
+                        "instanceID": -55186
+                    }
+                },
+                {
+                    "itemType": 29,
+                    "price": 16.889999389648439,
+                    "tempTransform": {
+                        "instanceID": -55546
+                    }
+                },
+                {
+                    "itemType": 47,
+                    "price": 2.140000104904175,
+                    "tempTransform": {
+                        "instanceID": -18964
+                    }
+                },
+                {
+                    "itemType": 47,
+                    "price": 2.140000104904175,
+                    "tempTransform": {
+                        "instanceID": -18994
+                    }
+                },
+                {
+                    "itemType": 35,
+                    "price": 1.940000057220459,
+                    "tempTransform": {
+                        "instanceID": -18626
+                    }
+                },
+                {
+                    "itemType": 36,
+                    "price": 3.049999952316284,
+                    "tempTransform": {
+                        "instanceID": -35546
+                    }
+                },
+                {
+                    "itemType": 41,
+                    "price": 12.989999771118164,
+                    "tempTransform": {
+                        "instanceID": -6430
+                    }
+                },
+                {
+                    "itemType": 41,
+                    "price": 12.989999771118164,
+                    "tempTransform": {
+                        "instanceID": -6400
+                    }
+                }
+            ],
+            "paymentMethod": 0,
+            "customerAnimationType": 3,
+            "skinIndex": 1,
+            "roadPointDataSetIndex": 1,
+            "queuePointIndex": 1,
+            "itemTypesPurchased": [
+                40,
+                30,
+                29,
+                36,
+                47,
+                35,
+                41
+            ],
+            "pickingAnItem": true,
+            "addedToWaitingCustomers": true,
+            "cashCounterEnqueuedCustomersCount": 0,
+            "cashCounterGeneratedIntractableItems": [],
+            "cashCounter": 0
+        },
+        {
+            "position": {
+                "x": 0.75,
+                "y": 0.05000000074505806,
+                "z": 12.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 120.00000762939453,
+                "z": 0.0
+            },
+            "genderType": 0,
+            "customerState": 10,
+            "aiPathState": 2,
+            "purchasedItems": [
+                {
+                    "itemType": 37,
+                    "price": 17.8799991607666,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 37,
+                    "price": 17.8799991607666,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 37,
+                    "price": 17.8799991607666,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 38,
+                    "price": 3.3499999046325685,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 38,
+                    "price": 3.3499999046325685,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 16,
+                    "price": 2.6500000953674318,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 16,
+                    "price": 2.6500000953674318,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 41,
+                    "price": 12.989999771118164,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 22,
+                    "price": 13.5,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 22,
+                    "price": 13.5,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "itemType": 40,
+                    "price": 3.0,
+                    "tempTransform": {
+                        "instanceID": 0
+                    }
+                }
+            ],
+            "paymentMethod": 0,
+            "customerAnimationType": 0,
+            "skinIndex": 1,
+            "roadPointDataSetIndex": 3,
+            "queuePointIndex": 1,
+            "itemTypesPurchased": [
+                16,
+                38,
+                37,
+                41,
+                22,
+                40
+            ],
+            "pickingAnItem": true,
+            "addedToWaitingCustomers": true,
+            "cashCounterEnqueuedCustomersCount": 1,
+            "cashCounterGeneratedIntractableItems": [],
+            "cashCounter": 0
+        },
+        {
+            "position": {
+                "x": 0.75,
+                "y": 0.05000000074505806,
+                "z": 13.449999809265137
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 155.0,
+                "z": 0.0
+            },
+            "genderType": 1,
+            "customerState": 7,
+            "aiPathState": 2,
+            "purchasedItems": [
+                {
+                    "itemType": 22,
+                    "price": 13.5,
+                    "tempTransform": {
+                        "instanceID": -6558
+                    }
+                },
+                {
+                    "itemType": 22,
+                    "price": 13.5,
+                    "tempTransform": {
+                        "instanceID": -6528
+                    }
+                },
+                {
+                    "itemType": 41,
+                    "price": 12.989999771118164,
+                    "tempTransform": {
+                        "instanceID": -6182
+                    }
+                },
+                {
+                    "itemType": 41,
+                    "price": 12.989999771118164,
+                    "tempTransform": {
+                        "instanceID": -6152
+                    }
+                },
+                {
+                    "itemType": 42,
+                    "price": 10.390000343322754,
+                    "tempTransform": {
+                        "instanceID": -6114
+                    }
+                },
+                {
+                    "itemType": 17,
+                    "price": 4.539999961853027,
+                    "tempTransform": {
+                        "instanceID": -11056
+                    }
+                },
+                {
+                    "itemType": 26,
+                    "price": 3.240000009536743,
+                    "tempTransform": {
+                        "instanceID": -55786
+                    }
+                }
+            ],
+            "paymentMethod": 0,
+            "customerAnimationType": 3,
+            "skinIndex": 4,
+            "roadPointDataSetIndex": 2,
+            "queuePointIndex": 2,
+            "itemTypesPurchased": [
+                41,
+                22,
+                42,
+                17,
+                26
+            ],
+            "pickingAnItem": true,
+            "addedToWaitingCustomers": true,
+            "cashCounterEnqueuedCustomersCount": 2,
+            "cashCounterGeneratedIntractableItems": [],
+            "cashCounter": 0
+        },
+        {
+            "position": {
+                "x": 0.75,
+                "y": 0.05000000074505806,
+                "z": 14.175000190734864
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 155.0,
+                "z": 0.0
+            },
+            "genderType": 0,
+            "customerState": 7,
+            "aiPathState": 2,
+            "purchasedItems": [
+                {
+                    "itemType": 32,
+                    "price": 7.079999923706055,
+                    "tempTransform": {
+                        "instanceID": -21238
+                    }
+                },
+                {
+                    "itemType": 32,
+                    "price": 7.079999923706055,
+                    "tempTransform": {
+                        "instanceID": -21208
+                    }
+                },
+                {
+                    "itemType": 32,
+                    "price": 7.079999923706055,
+                    "tempTransform": {
+                        "instanceID": -21178
+                    }
+                },
+                {
+                    "itemType": 26,
+                    "price": 3.240000009536743,
+                    "tempTransform": {
+                        "instanceID": -58308
+                    }
+                },
+                {
+                    "itemType": 26,
+                    "price": 3.240000009536743,
+                    "tempTransform": {
+                        "instanceID": -58338
+                    }
+                },
+                {
+                    "itemType": 3,
+                    "price": 2.9800000190734865,
+                    "tempTransform": {
+                        "instanceID": -27944
+                    }
+                },
+                {
+                    "itemType": 22,
+                    "price": 13.5,
+                    "tempTransform": {
+                        "instanceID": -57860
+                    }
+                },
+                {
+                    "itemType": 35,
+                    "price": 1.940000057220459,
+                    "tempTransform": {
+                        "instanceID": -18596
+                    }
+                },
+                {
+                    "itemType": 36,
+                    "price": 3.049999952316284,
+                    "tempTransform": {
+                        "instanceID": -35516
+                    }
+                },
+                {
+                    "itemType": 47,
+                    "price": 2.140000104904175,
+                    "tempTransform": {
+                        "instanceID": -18934
+                    }
+                }
+            ],
+            "paymentMethod": 0,
+            "customerAnimationType": 3,
+            "skinIndex": 1,
+            "roadPointDataSetIndex": 2,
+            "queuePointIndex": 3,
+            "itemTypesPurchased": [
+                32,
+                22,
+                26,
+                3,
+                36,
+                47,
+                35
+            ],
+            "pickingAnItem": true,
+            "addedToWaitingCustomers": true,
+            "cashCounterEnqueuedCustomersCount": 3,
+            "cashCounterGeneratedIntractableItems": [],
+            "cashCounter": 0
+        }
+    ]
+}
